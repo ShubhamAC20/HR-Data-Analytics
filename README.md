@@ -8,3 +8,5 @@
 
 4.Used DAX Queries to do the initial visualization, mainly the COUNT() function to create measures such as the total working days, days people were present, and so on.
 
+5.This dashboard was created with the help of Power BI, Dax, MS-Excel & Power Query Editor.
+
